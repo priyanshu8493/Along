@@ -4,6 +4,8 @@ Along is a route-overlap ride-pooling MVP. You post where you're going; Along fi
 another open trip whose **road route** runs along yours, shows you the shared stretch,
 and splits the fare fairly.
 
+> For the full pitch-ready problem statement, see **[PROBLEM_STATEMENT.md](./PROBLEM_STATEMENT.md)**.
+
 The demo scenario: Asha travels **Majestic → Bengaluru Airport**, Rahul travels
 **Hebbal → Bengaluru Airport**. Rahul's route is nested inside Asha's, so they share
 **26.7 km** of the same airport road. Alone they would pay ₹546 + ₹460; together they
